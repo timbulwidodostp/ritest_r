@@ -1,6 +1,8 @@
 # ritest_r
 Randomization inference and permutation tests, allowing for arbitrary randomization procedures with (almost) Use ritest With (In) R Software
 
+https://www.youtube.com/watch?v=Z6wlID-PdOE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
